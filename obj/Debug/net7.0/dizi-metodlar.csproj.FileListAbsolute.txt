@@ -1,0 +1,15 @@
+C:\Users\husey\Desktop\Practics\dizi-metodlar\bin\Debug\net7.0\dizi-metodlar.exe
+C:\Users\husey\Desktop\Practics\dizi-metodlar\bin\Debug\net7.0\dizi-metodlar.deps.json
+C:\Users\husey\Desktop\Practics\dizi-metodlar\bin\Debug\net7.0\dizi-metodlar.runtimeconfig.json
+C:\Users\husey\Desktop\Practics\dizi-metodlar\bin\Debug\net7.0\dizi-metodlar.dll
+C:\Users\husey\Desktop\Practics\dizi-metodlar\bin\Debug\net7.0\dizi-metodlar.pdb
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.csproj.AssemblyReference.cache
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.AssemblyInfo.cs
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.dll
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\refint\dizi-metodlar.dll
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.pdb
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\dizi-metodlar.genruntimeconfig.cache
+C:\Users\husey\Desktop\Practics\dizi-metodlar\obj\Debug\net7.0\ref\dizi-metodlar.dll
